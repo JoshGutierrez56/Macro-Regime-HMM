@@ -18,7 +18,7 @@ principles, making every mathematical step transparent and verifiable.
 
 This directly targets PanAgora's multi-asset research stack. Edward Qian's
 risk parity framework allocates by risk contribution across asset classes;
-PanAgora's Macro Quantitative Strategies team conditions those allocations
+Macro Quantitative Strategies teams condition their allocations
 on macro regimes exactly as demonstrated here.
 
 ---
